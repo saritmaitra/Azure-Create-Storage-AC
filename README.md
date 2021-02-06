@@ -1,1 +1,1 @@
-# Azure-Create-Storage-AC
+# Azure-Create/Delete-Storage-AC
